@@ -1,0 +1,19 @@
+.subbox{
+
+    text-align: center;
+    background-color: aqua;
+    padding-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+    
+}
+.head{
+    text-align: center;
+    
+  
+
+}
