@@ -9,6 +9,9 @@
     border-style: solid;
     border-radius: 20px;
     border-width: 5px;
+    width: 500px;
+    align-content: center;
+    margin-left: 500px;
     
 }
 .head{
@@ -17,3 +20,4 @@
   
 
 }
+
