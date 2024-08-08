@@ -9,11 +9,13 @@ function calculate(){
     let res = (sum/tmMarks )* 100
     alert(res + '%' )
 
-    if (res >= 40 ){
+    if (res >= 40){
         alert('you have passed')
-    
     }
-    else
-         alert('you are failed') 
-    }
+    else if( res<= 39)
     
+    alert('u have failed')
+
+    else 
+        alert('invalid input')
+    }
